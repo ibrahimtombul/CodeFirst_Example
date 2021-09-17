@@ -18,7 +18,7 @@ Aktarım Ayarları - Migration Settings:
 
 Öncelikle konsol ekranında projenin dizini seçilmeli - First of all, the directory of the project should be selected on the console screen.
 
-  cmd: cd D:\C#\CodeFirst_Example\CodeFirst_Example
+	cmd: cd D:\C#\CodeFirst_Example\CodeFirst_Example
 	
 Aktarım Dosyası oluşturma - Create Migration File
 
