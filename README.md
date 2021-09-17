@@ -11,7 +11,7 @@ Gerekli Paketler - Required Packages:
 
 Opsiyonel Paket - Optional Package:
 
-cmd: dotnet tool install --global dotnet-ef
+	cmd: dotnet tool install --global dotnet-ef
 
 
 Aktarım Ayarları - Migration Settings:
