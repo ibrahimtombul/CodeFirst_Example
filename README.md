@@ -5,9 +5,8 @@ Creating Database Table with C# Codes
 
 Gerekli Paketler - Required Packages:
 
-Microsoft.EntityFrameworkCore.SqlServer
-
-Microsoft.EntityFrameworkCore
+	Microsoft.EntityFrameworkCore.SqlServer
+	Microsoft.EntityFrameworkCore
 
 
 Opsiyonel Paket - Optional Package:
