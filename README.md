@@ -7,6 +7,7 @@ Gerekli Paketler - Required Packages:
 
 	Microsoft.EntityFrameworkCore
 	Microsoft.EntityFrameworkCore.SqlServer
+	Microsoft.EntityFrameworkCore.Design
 
 Opsiyonel Paket - Optional Package:
 
